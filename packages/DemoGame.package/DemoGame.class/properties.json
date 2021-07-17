@@ -1,0 +1,14 @@
+{
+	"category" : "DemoGame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DemoGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

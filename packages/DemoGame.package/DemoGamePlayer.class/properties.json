@@ -1,0 +1,14 @@
+{
+	"category" : "DemoGame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DemoGamePlayer",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
